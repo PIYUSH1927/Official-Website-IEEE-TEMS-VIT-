@@ -44,7 +44,7 @@ const Board = () => {
         <h2
           style={{
             textAlign: "center",
-            paddingBottom: "40px",
+            paddingBottom: "30px",
             color: "white",
             paddingTop: "0px",
           }}
