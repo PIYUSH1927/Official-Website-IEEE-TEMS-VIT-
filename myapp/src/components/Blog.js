@@ -83,7 +83,7 @@ const Blog = () => {
             className="option"
             style={{
               "--optionBackground":
-                "url(Blogposts/Snapinsta.app_391089358_187357391062010_7940396338877248259_n_1080.webp)",
+                "url(/Blogposts/Snapinsta.app_391089358_187357391062010_7940396338877248259_n_1080.webp)",
             }}
           >
             <div className="label">
@@ -113,7 +113,7 @@ const Blog = () => {
           <div
             className="option"
             style={{
-              "--optionBackground": "url(Blogposts/Shellscripting.webp)",
+              "--optionBackground": "url(/Blogposts/Shellscripting.webp)",
             }}
           >
             <div className="label">
@@ -143,7 +143,7 @@ const Blog = () => {
           <div
             className="option"
             style={{
-              "--optionBackground": "url(Blogposts/shellscript.webp)",
+              "--optionBackground": "url(/Blogposts/shellscript.webp)",
             }}
           >
             <div className="label">
@@ -173,7 +173,7 @@ const Blog = () => {
           <div
             className="option"
             style={{
-              "--optionBackground": "url(Blogposts/responsive.webp)",
+              "--optionBackground": "url(/Blogposts/responsive.webp)",
             }}
           >
             <div className="label">
@@ -203,7 +203,7 @@ const Blog = () => {
           <div
             className="option"
             style={{
-              "--optionBackground": "url(Blogposts/numpy.webp)",
+              "--optionBackground": "url(/Blogposts/numpy.webp)",
             }}
           >
             <div className="label">
@@ -233,7 +233,7 @@ const Blog = () => {
           <div
             className="option"
             style={{
-              "--optionBackground": "url(Blogposts/tailwind.webp)",
+              "--optionBackground": "url(/Blogposts/tailwind.webp)",
             }}
           >
             <div className="label">
@@ -263,7 +263,7 @@ const Blog = () => {
           <div
             className="option"
             style={{
-              "--optionBackground": "url(Blogposts/bootstrap.webp)",
+              "--optionBackground": "url(/Blogposts/bootstrap.webp)",
             }}
           >
             <div className="label">
