@@ -87,7 +87,7 @@ const HomePage = () => {
             />
           </a>
         </div>
-        <div style={{ position: "absolute", top: 12, right: 2 }}>
+        <div style={{ position: "absolute", top: 15, right: 2 }}>
           <a
             href="https://vit.ac.in/campuslife/studentswelfare"
             target="_blank"
