@@ -19,7 +19,7 @@ const About = () => {
             style={{ textAlign: "center" }}
           >
             <img
-              src="imgabout.webp"
+              src="imgabt.webp"
               className="imgg"
               style={{ borderRadius: "5px" }}
               alt="IEEE TEMS"

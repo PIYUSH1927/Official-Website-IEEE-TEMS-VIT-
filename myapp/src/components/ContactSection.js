@@ -35,7 +35,7 @@ const ContactSection = () => {
       <div
         className="Contact-box container-fluid border border-success rounded-5 text-white"
         style={{
-          boxShadow: "0 0 50px 0 rgba(19, 135, 19, 0.8)",
+          boxShadow: "0 0 0 0 rgba(19, 135, 19, 0.8)",
         }}
       >
         <div className="Contact-box-left">

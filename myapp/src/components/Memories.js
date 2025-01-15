@@ -79,63 +79,101 @@ const Memories = () => {
               data-bs-slide-to="7"
               aria-label="Slide 8"
             ></button>
+            <button
+              type="button"
+              data-bs-target="#carouselExampleIndicators"
+              data-bs-slide-to="8"
+              aria-label="Slide 9"
+            ></button>
+            <button
+              type="button"
+              data-bs-target="#carouselExampleIndicators"
+              data-bs-slide-to="9"
+              aria-label="Slide 10"
+            ></button>
+            <button
+              type="button"
+              data-bs-target="#carouselExampleIndicators"
+              data-bs-slide-to="10"
+              aria-label="Slide 11"
+            ></button>
           </div>
           <div className="carousel-inner" style={{ textAlign: "center" }}>
             <div className="carousel-item active">
               <img
                 className="mimg"
-                src="img1.webp"
+                src="im1.webp"
                 alt="Riviera , IEEE TEMS Vellore"
               />
               <div className="carousel-caption">
-                <h3>Riviera 2023</h3>
+                <h3></h3>
               </div>
             </div>
             <div className="carousel-item">
               <img
                 className="mimg"
-                src="img2.webp"
+                src="im2.webp"
                 alt="Ice-Breaking , IEEE TEMS Vellore"
               />
               <div className="carousel-caption">
-                <h3>Ice-Breaking Session 2023</h3>
+                <h3>HackXpertise</h3>
               </div>
             </div>
             <div className="carousel-item">
               <img
                 className="mimg"
-                src="img3.webp"
+                src="im3.webp"
                 alt="Innovision , IEEE TEMS Vellore"
               />
               <div className="carousel-caption">
-                <h3>Innovision 2023</h3>
+                <h3>CodeRush 2.0</h3>
               </div>
             </div>
             <div className="carousel-item">
               <img
                 className="mimg"
-                src="img7.webp"
+                src="im4.webp"
                 alt="Code Rush , IEEE TEMS Vellore"
               />
               <div className="carousel-caption">
-                <h3>Code Rush 2023</h3>
+                <h3>Gravitas 2024</h3>
               </div>
             </div>
             <div className="carousel-item">
               <img
                 className="mimg"
-                src="img4.webp"
+                src="im5.webp"
                 alt="Riviera , IEEE TEMS Vellore"
               />
               <div className="carousel-caption">
+                <h3>Expo Gravitas 2024</h3>
+              </div>
+            </div>
+            <div className="carousel-item">
+              <img
+                className="mimg"
+                src="im6.webp"
+                alt="Gravitas, IEEE TEMS Vellore"
+              />
+              <div className="carousel-caption">
                 <h3>Riviera 2023</h3>
+              </div>
+            </div>
+            <div className="carousel-item">
+              <img
+                className="mimg"
+                src="im7.webp"
+                alt="Innovision, IEEE TEMS Vellore"
+              />
+              <div className="carousel-caption">
+                <h3>Expo Riviera 2023</h3>
               </div>
             </div>
             <div className="carousel-item">
               <img
                 className="mimg"
                 src="img8.webp"
-                alt="Gravitas, IEEE TEMS Vellore"
+                alt="Team 2022-23, IEEE TEMS Vellore"
               />
               <div className="carousel-caption">
                 <h3>Gravitas 2023</h3>
@@ -145,10 +183,20 @@ const Memories = () => {
               <img
                 className="mimg"
                 src="img5.webp"
-                alt="Innovision, IEEE TEMS Vellore"
+                alt="Team 2022-23, IEEE TEMS Vellore"
               />
               <div className="carousel-caption">
-                <h3>Innovision 2023</h3>
+                <h3>Innovision Talks</h3>
+              </div>
+            </div>
+            <div className="carousel-item">
+              <img
+                className="mimg"
+                src="img4.webp"
+                alt="Team 2022-23, IEEE TEMS Vellore"
+              />
+              <div className="carousel-caption">
+                <h3>Riviera 2023</h3>
               </div>
             </div>
             <div className="carousel-item">

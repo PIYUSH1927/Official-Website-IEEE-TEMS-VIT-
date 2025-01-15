@@ -11,7 +11,7 @@
 
 .event-description {
     border: 1px solid green;
-    box-shadow: 0 0 50px 0 rgba(19, 135, 19, 0.8);
+    box-shadow: 0 0 0 0 rgba(19, 135, 19, 0.8);
     border-radius: 20px;
     text-align: center;
 }
@@ -173,6 +173,7 @@
     flex-direction: column;
     grid-auto-flow: 15px;
     background-color: transparent;
+    left: 10px;
 }
 
 .contentBx .card .imgBx2 {

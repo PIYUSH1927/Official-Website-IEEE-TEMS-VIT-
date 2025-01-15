@@ -16,9 +16,9 @@ const Domains = () => {
         "In the realm of Machine Learning, IEEE TEMS is the go-to hub for enthusiasts seeking to dive into the world of cutting-edge algorithms, advanced data analysis techniques, and practical AI applications. Our vibrant community of members actively engages in workshops, hackathons, and seminars to stay consistently updated with the latest advancements in Machine Learning.Through our interactive events, we aim to foster a culture of innovation and collaboration in this ever-evolving field. Our seminars feature industry experts and thought leaders, providing invaluable insights into the exciting developments in Machine Learning.",
     },
     iot: {
-      title: "Internet Of Things",
+      title: "Competitive Programming",
       content:
-        "IEEE TEMS plays a pivotal role in bridging the physical and digital realms. Our array of activities includes hosting IoT hackathons, sensor development workshops, and thought-provoking discussions on the societal impact of the Internet of Things (IoT). Within our vibrant community, members come together to collaborate, brainstorm, and create innovative IoT solutions. This collective effort not only enhances the interconnectedness of our world but also contributes to the broader conversation about the evolving role of IoT in our daily lives and society at large. Our commitment to pushing the boundaries of IoT technology further enriches the landscape of innovation and connectivity.",
+        "We empower members to master problem-solving and algorithmic challenges through a variety of engaging initiatives, including contests, workshops, and personalized mentorship programs. By providing a supportive ecosystem, we enable individuals to sharpen their analytical thinking, coding skills, and innovative approaches to complex problems. Our flagship events, CodeRush and CodeClash, serve as benchmarks of excellence in competitive programming. CodeClash, in particular, has gained national recognition, attracting over 1,000 participants from across the country. These platforms foster excellence, collaboration, and competition at the highest level..",
     },
     devops: {
       title: "DevOps",
@@ -67,7 +67,7 @@ const Domains = () => {
       </h2>
       <div
         className="container-fluid border border-success rounded-5 text-white"
-        style={{ boxShadow: "0 0 50px 0 rgba(19, 135, 19, 0.8)" }}
+        style={{ boxShadow: "0 0 0 0 rgba(19, 135, 19, 0.8)" }}
       >
         <div className="row flex-nowrap">
           <div

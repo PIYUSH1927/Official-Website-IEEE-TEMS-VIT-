@@ -80,7 +80,7 @@ const Board = () => {
               }}
               onClick={() => handleTabClick("2024")}
             >
-              2024
+              2025
             </a>
             <a
               href="#Board"
@@ -99,13 +99,14 @@ const Board = () => {
               }}
               onClick={() => handleTabClick("2023")}
             >
-              2023
+              2024
             </a>
           </nav>
         </div>
         <div
-          className={`Board2024 board-content ${activeYearBoard === "Board2024" ? "active-year-board highlight" : ""
-            }`}
+          className={`Board2024 board-content ${
+            activeYearBoard === "Board2024" ? "active-year-board highlight" : ""
+          }`}
           id="Board2024"
         >
           <div className="container">
@@ -120,7 +121,7 @@ const Board = () => {
                 </div>
                 <div className="content">
                   <div className="card-heading" id="board-name">
-                    <p style={{ color: "white" }}>Piyush Padia</p>
+                    <p style={{ color: "white" }}>Tarush Agarwal</p>
                   </div>
                   <div className="card-heading" id="board-post">
                     <p style={{ color: "green" }}>Chairperson</p>
@@ -153,12 +154,18 @@ const Board = () => {
                 </div>
                 <div className="content">
                   <div className="card-heading" id="board-name">
-                    <p style={{ color: "white" }}>Srihitha Reddy</p>
+                    <p style={{ color: "white" }}>Hardik Bansal</p>
                   </div>
                   <div className="card-heading" id="board-post">
                     <p style={{ color: "green" }}>Vice-Chairperson</p>
                   </div>
                   <div className="social">
+                    <a
+                      href="https://www.instagram.com/piyush_padia?igsh=emtyZXprMG5uMGkx"
+                      target="_blank"
+                    >
+                      <i className="fa-brands fa-instagram fa-2x"></i>
+                    </a>
                     <a
                       href="https://www.linkedin.com/in/-srihitha-reddy"
                       target="_blank"
@@ -182,7 +189,7 @@ const Board = () => {
                 </div>
                 <div className="content">
                   <div className="card-heading" id="board-name">
-                    <p style={{ color: "white" }}>Anisha Chandavarkar</p>
+                    <p style={{ color: "white" }}>Aradhay Harshit</p>
                   </div>
                   <div className="card-heading" id="board-post">
                     <p style={{ color: "green" }}>Secretary</p>
@@ -215,12 +222,18 @@ const Board = () => {
                 </div>
                 <div className="content">
                   <div className="card-heading" id="board-name">
-                    <p style={{ color: "white" }}>Sachita Manna</p>
+                    <p style={{ color: "white" }}>Yashita Berry</p>
                   </div>
                   <div className="card-heading" id="board-post">
                     <p style={{ color: "green" }}>Co-Secretary</p>
                   </div>
                   <div className="social">
+                    <a
+                      href="https://www.instagram.com/piyush_padia?igsh=emtyZXprMG5uMGkx"
+                      target="_blank"
+                    >
+                      <i className="fa-brands fa-instagram fa-2x"></i>
+                    </a>
                     <a
                       href="https://www.linkedin.com/in/sachita-manna-98340824b/"
                       target="_blank"
@@ -244,7 +257,7 @@ const Board = () => {
                 </div>
                 <div className="content">
                   <div className="card-heading" id="board-name">
-                    <p style={{ color: "white" }}>Vakati Samanvitha</p>
+                    <p style={{ color: "white" }}>Yashvi Goyal</p>
                   </div>
                   <div className="card-heading" id="board-post">
                     <p style={{ color: "green" }}>Management Head</p>
@@ -277,7 +290,7 @@ const Board = () => {
                 </div>
                 <div className="content">
                   <div className="card-heading" id="board-name">
-                    <p style={{ color: "white" }}>Bharath Mudduluru</p>
+                    <p style={{ color: "white" }}>Hardik Singla</p>
                   </div>
                   <div className="card-heading" id="board-post">
                     <p style={{ color: "green" }}>Technical Head</p>
@@ -310,7 +323,7 @@ const Board = () => {
                 </div>
                 <div className="content">
                   <div className="card-heading" id="board-name">
-                    <p style={{ color: "white" }}>Harsh Pandey</p>
+                    <p style={{ color: "white" }}>Rhythm Gupta</p>
                   </div>
                   <div className="card-heading" id="board-post">
                     <p style={{ color: "green" }}>Events Head</p>
@@ -336,8 +349,9 @@ const Board = () => {
         </div>
 
         <div
-          className={`Board2024 board-content ${activeTab === "2024" ? "active-year-board" : ""
-            }`}
+          className={`Board2024 board-content ${
+            activeTab === "2024" ? "active-year-board" : ""
+          }`}
           id="Board2024"
         >
           <div className="container">
@@ -352,10 +366,10 @@ const Board = () => {
                 </div>
                 <div className="content">
                   <div className="card-heading" id="board-name">
-                    <p style={{ color: "white" }}>Priyansh Kotak</p>
+                    <p style={{ color: "white" }}>Jiya Paliwal</p>
                   </div>
                   <div className="card-heading" id="board-post">
-                    <p style={{ color: "green" }}>Project Head</p>
+                    <p style={{ color: "green" }}>Design Head</p>
                   </div>
                   <div className="social">
                     <a
@@ -387,7 +401,123 @@ const Board = () => {
                 </div>
                 <div className="content">
                   <div className="card-heading" id="board-name">
-                    <p style={{ color: "white" }}>Chundru Sai Sriya</p>
+                    <p style={{ color: "white" }}>Kartik Kar</p>
+                  </div>
+                  <div className="card-heading" id="board-post">
+                    <p style={{ color: "green" }}>Projects Head</p>
+                  </div>
+                  <div className="social">
+                    <a
+                      href="https://www.instagram.com/17_sriya?igsh=ZTE0bG1uajlwODY4"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <i className="fa-brands fa-instagram fa-2x"></i>
+                    </a>
+                    <a
+                      href="https://www.linkedin.com/in/sriya-chundru-881301268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <i className="fa-brands fa-linkedin fa-2x"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="card" style={{ textAlign: "center" }}>
+              <div className="card__1 card-color__1">
+                <div className="image">
+                  <img
+                    src="board/2024/Tapesh.webp"
+                    className="card-img"
+                    alt="Tapesh, IEEE TEMS Vellore"
+                  />
+                </div>
+                <div className="content">
+                  <div className="card-heading" id="board-name">
+                    <p style={{ color: "white" }}>Maitreya Chavan</p>
+                  </div>
+                  <div className="card-heading" id="board-post">
+                    <p style={{ color: "green" }}>Finance Head</p>
+                  </div>
+                  <div className="social">
+                    <a
+                      href="https://www.instagram.com/tapeshkhandelwal?igsh=aml6N2x1cXEyNnBs"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <i className="fa-brands fa-instagram fa-2x"></i>
+                    </a>
+                    <a
+                      href="https://www.linkedin.com/in/tapesh-khandelwal-7b5498246/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <i className="fa-brands fa-linkedin fa-2x"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className={`Board2024 board-content ${
+            activeTab === "2024" ? "active-year-board" : ""
+          }`}
+          id="Board2024"
+        >
+          <div className="container">
+            <div className="card" style={{ textAlign: "center" }}>
+              <div className="card__1 card-color__1">
+                <div className="image">
+                  <img
+                    src="board/2024/Priyansh.webp"
+                    className="card-img"
+                    alt="Priyansh, IEEE TEMS Vellore"
+                  />
+                </div>
+                <div className="content">
+                  <div className="card-heading" id="board-name">
+                    <p style={{ color: "white" }}>Bhavya Shukla</p>
+                  </div>
+                  <div className="card-heading" id="board-post">
+                    <p style={{ color: "green" }}>Publicity Head</p>
+                  </div>
+                  <div className="social">
+                    <a
+                      href="https://www.instagram.com/priyansh_kotak_/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <i className="fa-brands fa-instagram fa-2x"></i>
+                    </a>
+                    <a
+                      href="https://www.linkedin.com/in/priyanshkotak/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <i className="fa-brands fa-linkedin fa-2x"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="card" style={{ textAlign: "center" }}>
+              <div className="card__1 card-color__1">
+                <div className="image">
+                  <img
+                    src="board/2024/Sriya.webp"
+                    className="card-img"
+                    alt="Sriya, IEEE TEMS Vellore"
+                  />
+                </div>
+                <div className="content">
+                  <div className="card-heading" id="board-name">
+                    <p style={{ color: "white", fontSize: "large" }}>
+                      Harshitha Kommareddy
+                    </p>
                   </div>
                   <div className="card-heading" id="board-post">
                     <p style={{ color: "green" }}>Editorial Head</p>
@@ -422,10 +552,10 @@ const Board = () => {
                 </div>
                 <div className="content">
                   <div className="card-heading" id="board-name">
-                    <p style={{ color: "white" }}>Tapesh Khandelwal</p>
+                    <p style={{ color: "white" }}>Divyam Singhvi</p>
                   </div>
                   <div className="card-heading" id="board-post">
-                    <p style={{ color: "green" }}>Finance Head</p>
+                    <p style={{ color: "green" }}>R & D Head</p>
                   </div>
                   <div className="social">
                     <a
@@ -450,8 +580,9 @@ const Board = () => {
         </div>
 
         <div
-          className={`Board2023 board-content ${activeYearBoard === "Board2023" ? "active-year-board" : ""
-            }`}
+          className={`Board2023 board-content ${
+            activeYearBoard === "Board2023" ? "active-year-board" : ""
+          }`}
           id="Board2023"
         >
           <div className="container">
@@ -459,14 +590,14 @@ const Board = () => {
               <div className="card__1 card-color__1">
                 <div className="image">
                   <img
-                    src="board/2023/Tanvir.webp"
+                    src="board/2024/Piyush.webp"
                     className="card-img"
                     alt="Piyush Padia, IEEE TEMS VIT"
                   />
                 </div>
                 <div className="content">
                   <div className="card-heading" id="board-name">
-                    <p style={{ color: "white" }}>Tanvir</p>
+                    <p style={{ color: "white" }}>Piyush Padia</p>
                   </div>
                   <div className="card-heading" id="board-post">
                     <p style={{ color: "green" }}>Chairperson</p>
