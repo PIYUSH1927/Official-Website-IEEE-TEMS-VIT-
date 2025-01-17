@@ -114,9 +114,10 @@ const Board = () => {
               <div className="card__1 card-color__1">
                 <div className="image">
                   <img
-                    src="board/2024/Piyush.webp"
+                  style={{background:"#EDEADE"}}
+                    src="board/2025/Tarush.webp"
                     className="card-img"
-                    alt="Piyush Padia, IEEE TEMS VIT"
+                    alt="Tarush, IEEE TEMS VIT"
                   />
                 </div>
                 <div className="content">
@@ -128,13 +129,13 @@ const Board = () => {
                   </div>
                   <div className="social">
                     <a
-                      href="https://www.instagram.com/piyush_padia?igsh=emtyZXprMG5uMGkx"
+                      href="https://www.instagram.com/tar10000/?hl=en"
                       target="_blank"
                     >
                       <i className="fa-brands fa-instagram fa-2x"></i>
                     </a>
                     <a
-                      href="https://www.linkedin.com/in/piyush-padia-a47766215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+                      href="https://www.linkedin.com/in/tarush10000/"
                       target="_blank"
                     >
                       <i className="fa-brands fa-linkedin fa-2x"></i>
@@ -147,9 +148,10 @@ const Board = () => {
               <div className="card__1 card-color__1">
                 <div className="image">
                   <img
-                    src="board/2024/Srihitha.webp"
+                   style={{background:"#EDEADE"}}
+                    src="board/2025/Bansal.webp"
                     className="card-img"
-                    alt="Srihitha Reddy, IEEE TEMS VIT"
+                    alt="Hardik, IEEE TEMS VIT"
                   />
                 </div>
                 <div className="content">
@@ -161,13 +163,13 @@ const Board = () => {
                   </div>
                   <div className="social">
                     <a
-                      href="https://www.instagram.com/piyush_padia?igsh=emtyZXprMG5uMGkx"
+                      href="https://www.instagram.com/hardik_.bansal/?hl=en"
                       target="_blank"
                     >
                       <i className="fa-brands fa-instagram fa-2x"></i>
                     </a>
                     <a
-                      href="https://www.linkedin.com/in/-srihitha-reddy"
+                      href="https://www.linkedin.com/in/hardikbansal2064/"
                       target="_blank"
                     >
                       <i className="fa-brands fa-linkedin fa-2x"></i>
@@ -182,9 +184,10 @@ const Board = () => {
               <div className="card__1 card-color__1">
                 <div className="image">
                   <img
-                    src="board/2024/Anisha.webp"
+                  style={{background:"#EDEADE"}}
+                    src="board/2025/Aradhay.webp"
                     className="card-img"
-                    alt="Anisha, IEEE TEMS Vellore"
+                    alt="Aradhay, IEEE TEMS Vellore"
                   />
                 </div>
                 <div className="content">
@@ -196,13 +199,13 @@ const Board = () => {
                   </div>
                   <div className="social">
                     <a
-                      href="https://www.instagram.com/anisha_c26?igsh=dGF4ZjJuNTR6dTY1"
+                      href="https://www.instagram.com/anshul110904/?hl=en"
                       target="_blank"
                     >
                       <i className="fa-brands fa-instagram fa-2x"></i>
                     </a>
                     <a
-                      href="https://www.linkedin.com/in/anisha-chandavarkar?trk=contact-info"
+                      href="https://www.linkedin.com/in/aradhay-harshit-44211b26a/"
                       target="_blank"
                     >
                       <i className="fa-brands fa-linkedin fa-2x"></i>
@@ -215,9 +218,10 @@ const Board = () => {
               <div className="card__1 card-color__1">
                 <div className="image">
                   <img
-                    src="board/2024/Sachita.webp"
+                  style={{background:"#EDEADE"}}
+                    src="board/2025/Yashita.webp"
                     className="card-img"
-                    alt="Sachita, IEEE TEMS Vellore"
+                    alt="Yashita, IEEE TEMS Vellore"
                   />
                 </div>
                 <div className="content">
@@ -229,13 +233,13 @@ const Board = () => {
                   </div>
                   <div className="social">
                     <a
-                      href="https://www.instagram.com/piyush_padia?igsh=emtyZXprMG5uMGkx"
+                      href="https://www.instagram.com/yashita_berry/?hl=en"
                       target="_blank"
                     >
                       <i className="fa-brands fa-instagram fa-2x"></i>
                     </a>
                     <a
-                      href="https://www.linkedin.com/in/sachita-manna-98340824b/"
+                      href="https://www.linkedin.com/in/yashita-berry-695578277/"
                       target="_blank"
                     >
                       <i className="fa-brands fa-linkedin fa-2x"></i>
@@ -250,9 +254,10 @@ const Board = () => {
               <div className="card__1 card-color__1">
                 <div className="image">
                   <img
-                    src="board/2024/Samanvitha.webp"
+                  style={{background:"#EDEADE"}}
+                    src="board/2025/Yashvi.webp"
                     className="card-img"
-                    alt="Samanvitha, IEEE TEMS Vellore"
+                    alt="Yashvi, IEEE TEMS Vellore"
                   />
                 </div>
                 <div className="content">
@@ -264,13 +269,13 @@ const Board = () => {
                   </div>
                   <div className="social">
                     <a
-                      href="https://www.instagram.com/samanvitha_reddy_16?igsh=b3dhbG9kMWlmM3pt&utm_source=qr"
+                      href="https://www.instagram.com/yashvi_goyal04/?hl=en"
                       target="_blank"
                     >
                       <i className="fa-brands fa-instagram fa-2x"></i>
                     </a>
                     <a
-                      href="https://www.linkedin.com/in/samanvitha-reddy-9aa84b21b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+                      href="https://www.linkedin.com/in/yashvi-goyal-35a248281/"
                       target="_blank"
                     >
                       <i className="fa-brands fa-linkedin fa-2x"></i>
@@ -283,9 +288,10 @@ const Board = () => {
               <div className="card__1 card-color__1">
                 <div className="image">
                   <img
-                    src="board/2024/Bharath.webp"
+                  style={{background:"#EDEADE"}}
+                    src="board/2025/Singla.webp"
                     className="card-img"
-                    alt="Bharath, IEEE TEMS Vellore"
+                    alt="Hardik, IEEE TEMS Vellore"
                   />
                 </div>
                 <div className="content">
@@ -297,13 +303,13 @@ const Board = () => {
                   </div>
                   <div className="social">
                     <a
-                      href="https://www.instagram.com/bharath0616?igsh=MTljaWUzYno5OXd3MA=="
+                      href="https://www.instagram.com/hardik._.singla/?hl=en"
                       target="_blank"
                     >
                       <i className="fa-brands fa-instagram fa-2x"></i>
                     </a>
                     <a
-                      href="https://www.linkedin.com/in/bharath-mudduluru-a6a331139?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+                      href="https://www.linkedin.com/in/hardik-singla-163112232/"
                       target="_blank"
                     >
                       <i className="fa-brands fa-linkedin fa-2x"></i>
@@ -316,9 +322,10 @@ const Board = () => {
               <div className="card__1 card-color__1">
                 <div className="image">
                   <img
-                    src="board/2024/Harsh.webp"
+                  style={{background:"#EDEADE"}}
+                    src="board/2025/Rhythm.webp"
                     className="card-img"
-                    alt="Harsh, IEEE TEMS Vellore"
+                    alt="Rhythm, IEEE TEMS Vellore"
                   />
                 </div>
                 <div className="content">
@@ -330,13 +337,13 @@ const Board = () => {
                   </div>
                   <div className="social">
                     <a
-                      href="https://www.instagram.com/harsh._pndy20/?next=%2F"
+                      href="https://www.instagram.com/_rhythm.14_/?hl=en"
                       target="_blank"
                     >
                       <i className="fa-brands fa-instagram fa-2x"></i>
                     </a>
                     <a
-                      href="https://www.linkedin.com/in/harsh-pandey-fd21/"
+                      href="https://www.linkedin.com/in/rhythm-gupta-520077253/"
                       target="_blank"
                     >
                       <i className="fa-brands fa-linkedin fa-2x"></i>
@@ -359,9 +366,10 @@ const Board = () => {
               <div className="card__1 card-color__1">
                 <div className="image">
                   <img
-                    src="board/2024/Priyansh.webp"
+                  style={{background:"#EDEADE"}}
+                    src="board/2025/Jiya.webp"
                     className="card-img"
-                    alt="Priyansh, IEEE TEMS Vellore"
+                    alt="Jiya, IEEE TEMS Vellore"
                   />
                 </div>
                 <div className="content">
@@ -373,14 +381,14 @@ const Board = () => {
                   </div>
                   <div className="social">
                     <a
-                      href="https://www.instagram.com/priyansh_kotak_/"
+                      href="https://www.instagram.com/jiya_paliwal_/?hl=en"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       <i className="fa-brands fa-instagram fa-2x"></i>
                     </a>
                     <a
-                      href="https://www.linkedin.com/in/priyanshkotak/"
+                      href="https://www.linkedin.com/in/jiya-paliwal3414/"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -394,9 +402,10 @@ const Board = () => {
               <div className="card__1 card-color__1">
                 <div className="image">
                   <img
-                    src="board/2024/Sriya.webp"
+                  style={{background:"#EDEADE"}}
+                    src="board/2025/Kartik.png"
                     className="card-img"
-                    alt="Sriya, IEEE TEMS Vellore"
+                    alt="Projects, IEEE TEMS Vellore"
                   />
                 </div>
                 <div className="content">
@@ -408,14 +417,14 @@ const Board = () => {
                   </div>
                   <div className="social">
                     <a
-                      href="https://www.instagram.com/17_sriya?igsh=ZTE0bG1uajlwODY4"
+                      href="https://www.instagram.com/kartik_kar_19/?hl=en"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       <i className="fa-brands fa-instagram fa-2x"></i>
                     </a>
                     <a
-                      href="https://www.linkedin.com/in/sriya-chundru-881301268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+                      href="https://www.linkedin.com/in/kartik-kar/"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -429,9 +438,10 @@ const Board = () => {
               <div className="card__1 card-color__1">
                 <div className="image">
                   <img
-                    src="board/2024/Tapesh.webp"
+                  style={{background:"#EDEADE"}}
+                    src="board/2025/Maitreya.webp"
                     className="card-img"
-                    alt="Tapesh, IEEE TEMS Vellore"
+                    alt="Maitreya, IEEE TEMS Vellore"
                   />
                 </div>
                 <div className="content">
@@ -443,14 +453,14 @@ const Board = () => {
                   </div>
                   <div className="social">
                     <a
-                      href="https://www.instagram.com/tapeshkhandelwal?igsh=aml6N2x1cXEyNnBs"
+                      href="https://www.instagram.com/_maitreyaaaa_/?hl=en"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       <i className="fa-brands fa-instagram fa-2x"></i>
                     </a>
                     <a
-                      href="https://www.linkedin.com/in/tapesh-khandelwal-7b5498246/"
+                      href="https://www.linkedin.com/in/maitreya-chavan-65a638250/"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -473,9 +483,10 @@ const Board = () => {
               <div className="card__1 card-color__1">
                 <div className="image">
                   <img
-                    src="board/2024/Priyansh.webp"
+                  style={{background:"#EDEADE"}}
+                    src="board/2025/Bhavya.webp"
                     className="card-img"
-                    alt="Priyansh, IEEE TEMS Vellore"
+                    alt="Bhavya, IEEE TEMS Vellore"
                   />
                 </div>
                 <div className="content">
@@ -487,14 +498,14 @@ const Board = () => {
                   </div>
                   <div className="social">
                     <a
-                      href="https://www.instagram.com/priyansh_kotak_/"
+                      href="https://www.instagram.com/bhavyaaa._1/?hl=en"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       <i className="fa-brands fa-instagram fa-2x"></i>
                     </a>
                     <a
-                      href="https://www.linkedin.com/in/priyanshkotak/"
+                      href="https://www.linkedin.com/in/bhavya-shukla-b96a5a288/"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -508,9 +519,10 @@ const Board = () => {
               <div className="card__1 card-color__1">
                 <div className="image">
                   <img
-                    src="board/2024/Sriya.webp"
+                  style={{background:"#EDEADE"}}
+                    src="board/2025/Harshita.webp"
                     className="card-img"
-                    alt="Sriya, IEEE TEMS Vellore"
+                    alt="Harshitha, IEEE TEMS Vellore"
                   />
                 </div>
                 <div className="content">
@@ -524,14 +536,14 @@ const Board = () => {
                   </div>
                   <div className="social">
                     <a
-                      href="https://www.instagram.com/17_sriya?igsh=ZTE0bG1uajlwODY4"
+                      href="https://www.instagram.com/har_shitha__kss_/?hl=en"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       <i className="fa-brands fa-instagram fa-2x"></i>
                     </a>
                     <a
-                      href="https://www.linkedin.com/in/sriya-chundru-881301268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+                      href="https://www.linkedin.com/in/harshitha-kommareddy-b087a4274/"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -545,9 +557,10 @@ const Board = () => {
               <div className="card__1 card-color__1">
                 <div className="image">
                   <img
-                    src="board/2024/Tapesh.webp"
+                  style={{background:"#EDEADE"}}
+                    src="board/2025/Divyam.webp"
                     className="card-img"
-                    alt="Tapesh, IEEE TEMS Vellore"
+                    alt="Divyam, IEEE TEMS Vellore"
                   />
                 </div>
                 <div className="content">
@@ -559,14 +572,14 @@ const Board = () => {
                   </div>
                   <div className="social">
                     <a
-                      href="https://www.instagram.com/tapeshkhandelwal?igsh=aml6N2x1cXEyNnBs"
+                      href="https://www.instagram.com/divyam_singhvi/?hl=en"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       <i className="fa-brands fa-instagram fa-2x"></i>
                     </a>
                     <a
-                      href="https://www.linkedin.com/in/tapesh-khandelwal-7b5498246/"
+                      href="https://www.linkedin.com/in/divyam-singhvi-950257261/"
                       target="_blank"
                       rel="noopener noreferrer"
                     >

@@ -135,7 +135,7 @@ const Domains = () => {
               {domainContent[activeDomain].title.slice(1)}
             </h2>
             <br />
-            <p className="domaintext text-left lh-lg word-spacing-4">
+            <p className="domaintext text-left lh-lg word-spacing-4" style={{textAlign:"justify"}}>
               {domainContent[activeDomain].content}
             </p>
           </div>

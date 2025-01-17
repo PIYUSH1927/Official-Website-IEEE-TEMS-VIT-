@@ -104,10 +104,10 @@ const Footer = () => {
           </div>
 
 
-          <div className="col-lg-3 text-center px-5 mx-auto">
+          <div className="col-lg-3 px-5 mx-auto" style={{textAlign:"justify"}}>
             <p>
-              At VIT IEEE TEMS, we believe in a well-rounded skill set for
-              success in today's ever-evolving tech landscape. Actively engage
+              At IEEE TEMS VIT, we believe in a well-rounded skill set for
+              success in today's ever-evolving tech landscape. Engage
               in at least one technical and one non-technical domain, enhancing
               both your technical expertise and creativity. Join our vibrant
               community today.

@@ -115,8 +115,8 @@ const Event = () => {
                                 onClick={() => handleContentChange("content1")}
                             >
                                 <img
-                                    src="events/2023/codeRush.webp"
-                                    alt="Code Rush, IEEE TEMS"
+                                    src="events/2024/resume.webp"
+                                    alt="Resume Revamp, IEEE TEMS"
                                 />
                             </div>
                             <div
@@ -126,7 +126,7 @@ const Event = () => {
                                 data-id="content2"
                                 onClick={() => handleContentChange("content2")}
                             >
-                                <img src="events/2023/react.webp" alt="React, IEEE TEMS" />
+                                <img src="events/2024/devops.webp" alt="Unboxing DevOps, IEEE TEMS" />
                             </div>
                             <div
                                 className={`imgBx ${activeContent === "content3" ? "active" : ""
@@ -135,7 +135,7 @@ const Event = () => {
                                 data-id="content3"
                                 onClick={() => handleContentChange("content3")}
                             >
-                                <img src="events/2023/BB.webp" alt="BB, IEEE TEMS" />
+                                <img src="events/2024/ml.webp" alt="ML Maven, IEEE TEMS" />
                             </div>
                             <div
                                 className={`imgBx ${activeContent === "content4" ? "active" : ""
@@ -145,8 +145,8 @@ const Event = () => {
                                 onClick={() => handleContentChange("content4")}
                             >
                                 <img
-                                    src="events/2023/innovision.webp"
-                                    alt="Innovision Talk, IEEE TEMS"
+                                    src="events/2024/code.webp"
+                                    alt="Code Clash, IEEE TEMS"
                                 />
                             </div>
                             <div
@@ -157,8 +157,8 @@ const Event = () => {
                                 onClick={() => handleContentChange("content5")}
                             >
                                 <img
-                                    src="events/2023/pixelPerfect.webp"
-                                    alt="Pixel Perfect, IEEE TEMS"
+                                    src="events/2024/hackXpertise.webp"
+                                    alt="HackXpertise, IEEE TEMS"
                                 />
                             </div>
                             <div
@@ -169,8 +169,8 @@ const Event = () => {
                                 onClick={() => handleContentChange("content6")}
                             >
                                 <img
-                                    src="events/2023/data.webp"
-                                    alt="Data Science, IEEE TEMS"
+                                    src="events/2024/coder.webp"
+                                    alt="CodeRush 2.0, IEEE TEMS"
                                 />
                             </div>
                             <div
@@ -181,8 +181,8 @@ const Event = () => {
                                 onClick={() => handleContentChange("content7")}
                             >
                                 <img
-                                    src="events/2023/bootstrap.webp"
-                                    alt="Bootstrap, IEEE TEMS"
+                                    src="events/2024/alumni.webp"
+                                    alt="Alumni Talks, IEEE TEMS"
                                 />
                             </div>
                             <div
@@ -193,8 +193,8 @@ const Event = () => {
                                 onClick={() => handleContentChange("content8")}
                             >
                                 <img
-                                    src="events/2023/code-crafters.webp"
-                                    alt="Code Crafters, IEEE TEMS"
+                                    src="events/2024/outreach.webp"
+                                    alt="Outreach, IEEE TEMS"
                                 />
                             </div>
                         </div>
@@ -208,8 +208,8 @@ const Event = () => {
                                 <div className="card">
                                     <div className="imgBx2">
                                         <img
-                                            src="events/2023/codeRush.webp"
-                                            alt="Code Rush, IEEE TEMS"
+                                            src="events/2024/resume.webp"
+                                            alt="Resume Revamp, IEEE TEMS"
                                         />
                                     </div>
                                 </div>
@@ -222,19 +222,7 @@ const Event = () => {
                             >
                                 <div className="card">
                                     <div className="imgBx2">
-                                        <img src="events/2023/react.webp" alt="REACT, IEEE TEMS" />
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div
-                                className={`contentBx ${activeContent === "content2" ? "active" : ""
-                                    }`}
-                                id="content2"
-                            >
-                                <div className="card">
-                                    <div className="imgBx2">
-                                        <img src="events/2023/react.webp" alt="REACT, IEEE TEMS" />
+                                        <img src="events/2024/devops.webp" alt="Unboxing DevOps, IEEE TEMS" />
                                     </div>
                                 </div>
                             </div>
@@ -247,8 +235,8 @@ const Event = () => {
                                 <div className="card">
                                     <div className="imgBx2">
                                         <img
-                                            src="events/2023/BB.webp"
-                                            alt="Bezzie Bench, IEEE TEMS"
+                                            src="events/2024/ml.webp"
+                                            alt="ML Maven, IEEE TEMS"
                                         />
                                     </div>
                                 </div>
@@ -262,8 +250,8 @@ const Event = () => {
                                 <div className="card">
                                     <div className="imgBx2">
                                         <img
-                                            src="events/2023/innovision.webp"
-                                            alt="Innovision, IEEE TEMS VIT"
+                                            src="events/2024/code.webp"
+                                            alt="Code Clash, IEEE TEMS VIT"
                                         />
                                     </div>
                                 </div>
@@ -277,8 +265,8 @@ const Event = () => {
                                 <div className="card">
                                     <div className="imgBx2">
                                         <img
-                                            src="events/2023/pixelPerfect.webp"
-                                            alt="Pixel Perfect, IEEE TEMS"
+                                            src="events/2024/hackxpertise.webp"
+                                            alt="HackXpertise, IEEE TEMS"
                                         />
                                     </div>
                                 </div>
@@ -291,7 +279,7 @@ const Event = () => {
                             >
                                 <div className="card">
                                     <div className="imgBx2">
-                                        <img src="events/2023/data.webp" alt="Data, IEEE TEMS" />
+                                        <img src="events/2024/coder.webp" alt="CodeRush 2.0, IEEE TEMS" />
                                     </div>
                                 </div>
                             </div>
@@ -304,8 +292,8 @@ const Event = () => {
                                 <div className="card">
                                     <div className="imgBx2">
                                         <img
-                                            src="events/2023/bootstrap.webp"
-                                            alt="Bootstrap, IEEE TEMS"
+                                            src="events/2024/alumni.webp"
+                                            alt="Alumni Talks, IEEE TEMS"
                                         />
                                     </div>
                                 </div>
@@ -318,8 +306,8 @@ const Event = () => {
                                 <div className="card">
                                     <div className="imgBx2">
                                         <img
-                                            src="events/2023/code-crafters.webp"
-                                            alt="Code Crafters, IEEE TEMS"
+                                            src="events/2024/outreach.webp"
+                                            alt="Outreach, IEEE TEMS"
                                         />
                                     </div>
                                 </div>
@@ -327,7 +315,7 @@ const Event = () => {
                         </div>
                     </div>
 
-                    <div className="event-description">
+                    <div className="event-description" style={{textAlign:"justify"}}>
                         <div className="event-description-content">
                             <div
                                 className={`event-description-content-text descriptionBx ${activeContent === "content1" ? "event-active" : ""

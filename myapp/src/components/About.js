@@ -26,7 +26,7 @@ const About = () => {
             />
           </div>
           <div className="flex-element-2 flex-element">
-            <p className="about-content" style={{ marginTop: "0px" }}>
+            <p className="about-content" style={{ marginTop: "0px" , textAlign:'justify'}}>
               We are a dynamic and forward-thinking community of students
               dedicated to advancing the frontiers of technology and engineering
               management. Our chapter serves as a vibrant hub for innovation,
