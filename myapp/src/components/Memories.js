@@ -156,7 +156,7 @@ const Memories = () => {
                 alt="Gravitas, IEEE TEMS Vellore"
               />
               <div className="carousel-caption">
-                <h3>Riviera 2023</h3>
+                <h3>Riviera 2024</h3>
               </div>
             </div>
             <div className="carousel-item">
@@ -166,7 +166,7 @@ const Memories = () => {
                 alt="Innovision, IEEE TEMS Vellore"
               />
               <div className="carousel-caption">
-                <h3>Expo Riviera 2023</h3>
+                <h3>Expo Riviera 2024</h3>
               </div>
             </div>
             <div className="carousel-item">

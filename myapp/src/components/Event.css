@@ -266,6 +266,10 @@
         flex-direction: column;
     }
 
+    .contentBx .card {
+        left: 2px;
+    }
+
     .container1 {
         position: relative;
         width: 300px;
