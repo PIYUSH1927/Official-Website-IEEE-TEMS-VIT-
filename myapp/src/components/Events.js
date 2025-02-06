@@ -157,7 +157,7 @@ const Event = () => {
                                 onClick={() => handleContentChange("content5")}
                             >
                                 <img
-                                    src="events/2024/hackXpertise.webp"
+                                    src="/events/2024/hackXpertise.webp"
                                     alt="HackXpertise, IEEE TEMS"
                                 />
                             </div>
